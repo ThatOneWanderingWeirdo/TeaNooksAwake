@@ -1,8 +1,9 @@
 # PluralKit "Are we awake?" frontend
-[![Netlify Status](https://api.netlify.com/api/v1/badges/05a73512-de23-4f5f-8b08-9a14ac2604f4/deploy-status)](https://app.netlify.com/sites/teanooks/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49a2a8cd-a846-4388-b2fa-a9249b4d3f4c/deploy-status)](https://app.netlify.com/sites/teanooksproduction/deploys)
+
 This project is a clone of [u1f408/PKAwake](https://github.com/u1f408/PKAwake) written in react with a few changes
 
-###### [DEMO](https://teanooks.co/)
+###### [DEMO](https://teanooksproduction.netlify.app/)
 
 A simple web client for the PluralKit API, displaying
 whether your system has at least one current fronter.
