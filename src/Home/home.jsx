@@ -86,20 +86,8 @@ function renderIcon(name) {
     switch (name.toLowerCase()) {
         case "github":
             return <FiGithub />;
-        case "twitter":
-            return <FiTwitter />;
-        case "facebook":
-            return <FiFacebook />;
-        case "youtube":
-            return <FiYoutube />;
-        case "instagram":
-            return <FiInstagram />;
         case "discord":
             return <RiDiscordLine />;
-        case "patreon":
-            return <RiPatreonLine />;
-        case "website":
-            return <FiGlobe />;
         default:
             return;
     }
