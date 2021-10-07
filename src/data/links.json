@@ -1,10 +1,6 @@
 [
-    {"name": "Twitter", "url": "https://your.link.here"},
-    {"name": "GitHub", "url": "https://your.link.here"},
-    {"name": "Facebook", "url": "https://your.link.here"},
-    {"name": "YouTube", "url": "https://your.link.here"},
-    {"name": "Instagram", "url": "https://your.link.here"},
-    {"name": "Discord", "url": "https://your.link.here"},
-    {"name": "Patreon", "url": "https://your.link.here"},
-    {"name": "Website", "url": "https://your.link.here"}
+    {"name": "GitHub", "url": "https://github.com/ThatOneWanderingWeirdo"},
+    {"name": "Discord", "url": 'https://discord.com/users/303732162539159552"},
+    {"name": "Website", "url": "https://linktr.ee/thatonewander"}
+    
 ]
