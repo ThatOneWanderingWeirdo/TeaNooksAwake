@@ -1,5 +1,5 @@
 import {Container, Grid} from "@material-ui/core";
-import Home from "./Home/home";
+import Home from "./Website/Home/home";
 
 
 function App() {

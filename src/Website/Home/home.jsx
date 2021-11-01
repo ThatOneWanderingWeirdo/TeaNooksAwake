@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import PluralKitFetcher from "../pkAPI/PluralKitFetcher";
+import PluralKitFetcher from "../../pkAPI/PluralKitFetcher";
 import {Grid, Paper, Typography} from "@material-ui/core";
 import MemberCards from "./MemberCards";
 import Skeleton from '@material-ui/lab/Skeleton';
